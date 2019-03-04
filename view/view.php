@@ -40,15 +40,20 @@ class view
 							{
 								break;
 							}
-								 
-						$vidOutString .= '<li>';
-						$vidOutString .= '<div class="vedicmathcol">';
-						$vidOutString .= '<p class="videotitles">'.$videos[$vidCounter + $vidOffset]['title'].'</p>';
-						$vidOutString .= '<iframe width="240" height="200" src="' 
-								. $videos[$vidCounter + $vidOffset]['link']. 
-								'" frameborder="0" allowfullscreen></iframe>';	
+						$vidOutString .= '<div class="card-deck mb-3 text-center">';
+						$vidOutString .= '<div class="card mb-4 shadow-sm">'; 
+						$vidOutString .= '<div class="card-header">';
+						$vidOutString .= '<h4 class="my-0 font-weight-normal">';
+						$vidOutString .= $videos[$vidCounter + $vidOffset]['title'].'</h4>';
 						$vidOutString .= '</div>';
-						$vidOutString .= '</li>';		 
+						$vidOutString .= '<div class="card-body">';
+						$vidOutString .= '<div class="embed-responsive embed-responsive-16by9">';
+						$vidOutString .= '<iframe class="embed-responsive-item" src="'.$videos[$vidCounter + $vidOffset]['link'].
+											'"frameborder="0" allowfullscreen></iframe>';
+						$vidOutString .= '</div>';
+						$vidOutString .= '</div>';
+						$vidOutString .= '</div>';
+						$vidOutString .= '</div>';	 
 					}
 				return $vidOutString;
 		} // end function displayVideos()

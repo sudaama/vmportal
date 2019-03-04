@@ -104,9 +104,11 @@ extra_css: "jumbotron.css"
       <li class="nav-item">
         <a class="nav-link" href="#">Contact</a>
       </li>
+    <!--
       <li class="nav-item">
         <a class="nav-link" href="#">Link</a>
       </li>
+    -->
   </div>
 </nav>
 <!-- Can only have one main element on each page and it should contain unique content, and should
@@ -159,7 +161,7 @@ not appear anywhere else on the site -->
       </div>
     </div>
 
-    
+
   </div>
   <hr>
   <div id="videowrapper">
@@ -169,9 +171,9 @@ not appear anywhere else on the site -->
 			<a class="pages" href="nikhilam_mult.php?page=<?php echo $next; ?>#videos">next video set&gt;</a>
         <em class="pages_index"><strong><?php echo "Video Set: ";  echo $page + 1;?></strong></em>
           <!-- This code actuall displays the videos. displayVideos takes 4 arguments including the page reuired by user, the number of videos displayed (which we have absentmindedly called $linesPerPage, a count of the video titles and a function that gets the videos (found in the videos2.php file )-->
-          <ul>
+          
 			<?php echo $view->displayVideos($page, $videosPerPage, $maxVideos, $videos->getVideos()); ?>
-        </ul></div>
+        </div>
 
         </div>
   </div>
