@@ -49,7 +49,7 @@ extra_css: "jumbotron.css"
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="dropdown02" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">VM Methods (I)</a>
         <div class="dropdown-menu" aria-labelledby="dropdown02">
-          <a class="dropdown-item" href="#">Nikhilam Multiplication</a>
+          <a class="dropdown-item" href="nikhilam_mult.php">Nikhilam Multiplication</a>
           <a class="dropdown-item" href="#">Vertically & Crosswise</a>
           <a class="dropdown-item" href="#">Nikhilam Division</a>
           <a class="dropdown-item" href="#">Paraavartya Division</a>

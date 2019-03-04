@@ -40,11 +40,11 @@ class view
 							{
 								break;
 							}
-						$vidOutString .= '<div class="card-deck mb-3 text-center">';
+						
 						$vidOutString .= '<div class="card mb-4 shadow-sm">'; 
 						$vidOutString .= '<div class="card-header">';
-						$vidOutString .= '<h4 class="my-0 font-weight-normal">';
-						$vidOutString .= $videos[$vidCounter + $vidOffset]['title'].'</h4>';
+						$vidOutString .= '<h6 class="my-0 font-weight-normal">';
+						$vidOutString .= $videos[$vidCounter + $vidOffset]['title'].'</h6>';
 						$vidOutString .= '</div>';
 						$vidOutString .= '<div class="card-body">';
 						$vidOutString .= '<div class="embed-responsive embed-responsive-16by9">';
@@ -53,7 +53,7 @@ class view
 						$vidOutString .= '</div>';
 						$vidOutString .= '</div>';
 						$vidOutString .= '</div>';
-						$vidOutString .= '</div>';	 
+							 
 					}
 				return $vidOutString;
 		} // end function displayVideos()
