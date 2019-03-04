@@ -1,0 +1,173 @@
+@font-face 
+{ 
+font-family: CPMono_v07 Plain; src: url('http://www.mediafont.com/storage/contents/12618/font.eot'); /* IE */ src: local('CPMono_v07 Plain'), url('http://www.mediafont.com/storage/contents/12618/CPMono_v07 Bold.otf'); /* non-IE */ } 
+
+.col1, .col2, .col3, .cols {
+	float:left
+}
+.cols {
+	width:290px
+}
+.col1 {
+	width:100%;
+	margin-bottom: 60px;
+}
+.col2 {
+	width:auto
+}
+.col_1 {
+	width:232px;
+	float:left;
+	line-height:30px;
+	font-size:14px
+}
+.col_2 {
+	width:auto;
+	float:left
+}
+.col_3 {
+	width:179px;
+	float:left
+}
+.col_4 {
+	width:263px;
+	float:left
+}
+.col_address {
+	width:75px;
+	float:left
+}
+/* index.html */
+#page1 {
+	background:#fff url(none) no-repeat top
+}
+
+.teatree
+{
+	width:900px;
+	height:100px;
+	margin: 50px;
+}
+#page1 header {
+	height: auto;
+	position: relative;
+	/* [disabled]top: 20px; */
+	/* [disabled]right: 20px; */
+	 margin-top: 50px; 
+}
+#page1 .body1 {
+	background:yellowgreen url(../images/metal-wallpaper1.jpg);
+}
+#page1 #slogan {
+	background:url(../images/line_top1.gif) 0 0 no-repeat
+}
+/* index-1.html */
+#page2 .cols {
+	width:243px
+}
+/* index-2.html */
+/* index-3.html */
+/* index-4.html */
+#page5 .cols {
+	width:243px
+}
+/* index-5.html */
+/* index-6.html */
+.vedictable {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	width: 200px;
+	margin-left: 0px;
+}
+.vedictable tr th p{
+	margin-left: 0px;
+	margin-right: 15px;
+	/* [disabled]margin-top: 10px; */
+	padding: 0px 2px 0px 1px;
+}
+.vedicmathcol {
+    border: 3px solid #6f0;
+    border-radius: 10px;
+    float: left;
+    height: auto;
+    margin-bottom: 10px;
+    margin-right: 3px;
+    margin-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 1%;
+    width: 23%;
+}
+.clearboth {
+	clear: both;
+}
+
+.videotitles {
+	/* font-family: "CPMono_v07 Plain", Arial; */
+	font-family: Arial;
+	margin-bottom: 0px;
+}
+.puzzletitles {	 /* font-family: "CPMono_v07 Plain", Arial; */ 
+	font-family: Arial;  
+	margin-bottom: 0px;
+	text-align: center;
+	color: black;
+ }
+.wrapper .pad_left1 p {
+	color: #666;
+	/* [disabled]padding-top: 3px; */
+	/* [disabled]padding-left: 0px; */
+}
+#videowrapper {
+	clear: both;
+	float: left;
+	/* [disabled]margin-bottom: -50px; */
+	width: 100%;
+}
+.pages
+{
+	background: #FF0;
+	padding: 7px 7px 7px;
+	margin-bottom: 10px;
+	border: 2px solid #690;
+}
+.pages_index {
+	background: #9F0;
+	padding: 7px;
+	margin-bottom: 10px;
+	border: 2px solid #690;
+	margin-left: 20px;
+	width: auto;
+	font-weight: bold;
+	text-decoration: blink;
+}
+
+.pages a {
+	font-weight: bold;
+	color: #339;
+}
+.col5 {
+	float: left;
+	width: 400px;
+	clear: left;
+}
+.col6 {
+	float: left;
+	width: 400px;
+	margin-left: 50px;
+	clear: right;
+}
+.linkwrapper
+{
+	text-align: left;
+}
+
+.super
+{
+	font-size: 70%;
+	vertical-align: super;
+}
+
+.subit
+{
+	font-size: 70%;
+	vertical-align: sub;
+}

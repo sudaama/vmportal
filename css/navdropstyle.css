@@ -1,0 +1,105 @@
+@charset "utf-8";
+/* CSS Document */
+/*Initialize*/
+
+/*
+ul#menu, ul#menu ul.sub-menu {
+    padding:0;
+    margin: 0;
+}
+
+ul#menu li, ul#menu ul.sub-menu li {
+    list-style-type: none;
+    display: inline-block;
+}
+
+*/
+
+/*Link Appearance */ 
+
+/* original
+ul#menu li a, ul#menu li ul.sub-menu li a {
+	text-decoration: none;
+	color: #FFF;
+	/* background: #666;  
+
+    padding: 5px;
+	display:inline-block;
+	background: url(none);
+}
+
+*/
+
+
+ul#menu li a, ul#menu li 
+	{
+	text-decoration: none;
+	color: #FFF;
+	display:inline-block;
+	background: url(none);
+	width: auto;
+	height: auto;
+	font-family: "CPMono_v07 Plain", "Trebuchet MS", Verdana;
+	}
+
+
+
+ul.sub-menu li a {
+	text-decoration: none;
+	color: #30C;
+	/* background: #666; */ 
+
+    /* [disabled]padding: 5px; */
+	display:inline-block;
+	background: url(none);
+	font-size: 10px;
+	width: auto;
+}
+
+
+/*Make the parent of sub-menu relative*/
+ul#menu li {
+    position: relative;
+}
+
+/*sub menu*/
+
+ul#menu li ul.sub-menu 
+ {
+	background: #989c09 url(../images/metal-wallpaper1.jpg) repeat scroll 0 0;
+	display:none;
+	position: absolute;
+	top: 25px;
+	left: 0;
+	width: 250px;
+	color: #309;
+	border-radius: 10px;
+	padding-bottom: 10px;
+	border: 2px solid white;
+	z-index: 20;
+}
+ul#menu li:hover ul.sub-menu {
+    display:block;
+}
+ul#menu li ul.sub-menu li, ul#menu li ul.sub-menu li a 
+{
+	display: block;
+	width: auto;
+}
+	
+.inlinewith
+	{
+		display: inline-block;
+		float:right;
+	}
+	
+.logoid
+	{
+		width: auto;
+	}
+	
+.wrap1
+	{
+		width: 400px;
+		padding-top: 100px;
+	}
