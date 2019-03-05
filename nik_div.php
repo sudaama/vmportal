@@ -1,6 +1,6 @@
 <?php
 require './view/view.php';
-require './model/videos2.php';
+require './model/videos5.php';
 
 $view = new view();
 $videos = new videos();
@@ -38,8 +38,8 @@ $videosPerPage = 3;
     <!--end of Navigation bar-->
     <div class="jumbotron">
       <div class="container">
-        <h1 class="display-3">Nikhilam Multiplication</h1>
-        <p>Blurb for Nikhilam Multiplication....</p>
+        <h1 class="display-3">Nikhilam Division</h1>
+        <p>Blurb for Nikhilam Division....</p>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
         
         <p><a class="btn btn-primary btn-lg" href="#videos" role="button">Watch Videos &raquo;</a></p>
@@ -47,12 +47,12 @@ $videosPerPage = 3;
       <a name="videos"></a>
     </div>
   <hr>
- 	<h2 class="text-center">Nikhilam Multiplication Videos</h2>
+ 	<h2 class="text-center">Nikhilam Division Videos</h2>
 
-  <div id="nikmult" class="container" >
+  <div id="nik_div" class="container" >
   		<div>
-			<a class="pages" href="nikhilam_mult.php?page=<?php echo $prev; ?>#videos">&lt;prev video set</a>&nbsp;|&nbsp;
-			<a class="pages" href="nikhilam_mult.php?page=<?php echo $next; ?>#videos">next video set&gt;</a>
+			<a class="pages" href="nik_div.php?page=<?php echo $prev; ?>#videos">&lt;prev video set</a>&nbsp;|&nbsp;
+			<a class="pages" href="nik_div.php?page=<?php echo $next; ?>#videos">next video set&gt;</a>
         	<em class="pages_index"><strong><?php echo "Video Set: ";  echo $page + 1;?></strong></em>
       </div>
  	 	  <div class="card-deck mb-3 text-center">      

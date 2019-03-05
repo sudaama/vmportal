@@ -47,7 +47,7 @@ $videosPerPage = 3;
       <a name="videos"></a>
     </div>
   <hr>
- 	<h2 class="text-center">Nikhilam Multiplication Videos</h2>
+ 	<h2 class="text-center">** Placeholder Videos **</h2>
 
   <div id="nikmult" class="container" >
   		<div>

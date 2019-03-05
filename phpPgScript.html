@@ -1,0 +1,10 @@
+<div id="nikmult" class="container" >
+  		<div>
+			<a class="pages" href="nikhilam_mult.php?page=<?php echo $prev; ?>#videos">&lt;prev video set</a>&nbsp;|&nbsp;
+			<a class="pages" href="nikhilam_mult.php?page=<?php echo $next; ?>#videos">next video set&gt;</a>
+        	<em class="pages_index"><strong><?php echo "Video Set: ";  echo $page + 1;?></strong></em>
+        </div>
+ 	 	<div class="card-deck mb-3 text-center">      
+			<?php echo $view->displayVideos($page, $videosPerPage, $maxVideos, $videos->getVideos()); ?>
+		</div>
+  </div>
