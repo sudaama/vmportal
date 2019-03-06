@@ -29,14 +29,9 @@ $videosPerPage = 3;
     <!-- Bootstrap CSS 4.2.1 -->
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" type="text/css" href="css/jquery-ui.css">
+    <link rel="stylesheet" type="text/css" href="css/sudStyle.css">
     <title>Vedic Maths Portal</title>
-    <script>
-      $(function() 
-        {
-          $( "#accordion" ).accordion( {  collapsible: true , heightStyle: "content" });
-        });
-    </script>
-    <script type="text/javascript" src="js/jquery-ui.js"></script>
+    
 
   </head>
 
@@ -51,7 +46,7 @@ $videosPerPage = 3;
         <p>Blurb for Basic Terminology....</p>
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
         
-        <p><a class="btn btn-primary btn-lg" href="#videos" role="button">Watch Videos &raquo;</a></p>
+        <p><a class="btn btn-primary btn-lg" href="#videos" role="button">Learn More &raquo;</a></p>
       </div>
       <a name="videos"></a>
     </div>
@@ -184,6 +179,8 @@ $videosPerPage = 3;
 <footer class="container">
   <p>&copy; Vedic Maths Portal 2014-2019</p>
 </footer>
+    
+
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="js/jquery-3.3.1.js"></script>
@@ -195,7 +192,15 @@ $videosPerPage = 3;
         $(function(){
             $("#nav-placeholder").load("nav.html");
       });
-    </script>														
+    </script>		
+    
+    <script>
+      $(function() 
+        {
+          $("#accordion").accordion( {  collapsible: true , heightStyle: "content" });
+        });
+    </script>
+    <script type="text/javascript" src="js/jquery-ui.js"></script>												
   </body>
 </html>
 

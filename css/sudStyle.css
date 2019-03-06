@@ -1,0 +1,94 @@
+.rekhank {
+    font-size: 18px;
+    font-style: normal;
+    text-decoration: overline;
+        text-decoration-line: overline;
+        text-decoration-style: solid;
+        text-decoration-color: currentcolor;
+    color: #F00;
+    vertical-align: baseline;
+
+    .emphasize {
+	font-style: italic;
+	font-weight: bold;
+	font-size: 20px;
+	color: #000;
+}
+.emphasizeblack {
+	font-style: normal;
+	font-weight: bold;
+
+	color: #000;
+}
+
+.emphasize_purple {
+	font-style: italic;
+	font-weight: bold;
+	
+	color: #309;
+}
+
+.emphasize_orange {
+	font-style: italic;
+	font-weight: bold;
+	
+	color: #F90;
+}
+.emphasize_red {
+	font-style: italic;
+	font-weight: bold;
+	
+	color: #F00;
+}
+.emphasize_red_underline {
+	font-style: italic;
+	font-weight: bold;
+	
+	color: #F00;
+	text-decoration: underline;
+}
+.emphasize_black_underline {
+	font-style: italic;
+	font-weight: bold;
+	
+	color: #000;
+	text-decoration: underline;
+}
+
+
+.emphasize_lightblue {
+	font-style: italic;
+	font-weight: bold;
+	
+	color: #09F;
+}
+
+/* change accordion style. Shoild really be in ui-jqery.css (perm fix later) */
+
+.ui-accordion .ui-accordion-icons {
+    padding-left: 2.2em;
+}
+
+.ui-accordion .ui-accordion-header {
+	display: block;
+	cursor: pointer;
+	position: relative;
+	margin: 2px 0 0 0;
+	padding: .5em .5em .5em .7em;
+	min-height: 0;
+	font-size: 100%;
+}
+
+.ui-corner-all, .ui-corner-top, .ui-corner-right, .ui-corner-tr {
+    border-top-right-radius: 4px;
+}
+.ui-corner-all, .ui-corner-top, .ui-corner-left, .ui-corner-tl {
+    border-top-left-radius: 4px;
+}
+
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active {
+    border: 1px solid #fbd850;
+    background: #ffffff url("images/ui-bg_glass_65_ffffff_1x400.png") 50% 50% repeat-x;
+    font-weight: bold;
+    color: #eb8f00;
+}
