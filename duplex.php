@@ -40,16 +40,10 @@ $videosPerPage = 3;
     <div class="jumbotron">
       <div class="container">
         <h1 class="display-3">Duplex</h1>
-        <p>Blurb for Duplex....</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-        
-        <p><a class="btn btn-primary btn-lg" href="#videos" role="button">Learn More &raquo;</a></p>
+        <hr>
       </div>
       <a name="videos"></a>
-    </div>
-  <hr>
- 	<h2 class="text-center">Duplex </h2>
-
+  
   <div id="nikmult" class="container" >
   		<p class="pad_top2"><span class="subhead_tag">The Duplex of a number, also known as the Dvandva Yoga of a number, helps us to calculate Squares and Square Roots.</span></p>
 
@@ -61,6 +55,7 @@ $videosPerPage = 3;
   So, by doubling the first and last digit of the number, then the second and the last-but-one, then the third and the last-but-two followed by the fourth and the last-but-three and so on.
   
   Eventually, you will arrive at the centre and</span> <span class="emphasize">adding up all of the products</span> <span class="emphasize_orange">will give the Duplex of the number.</span></p>
+
 <h3>Single digit number</h3>
 <p>For a single digit number, "a", the Duplex, <span class="emphasize">D</span>(a), is simply the <span class="emphasize_lightblue">square of the number</span>. Thus <span class="emphasize">D</span>(a) = a<sup class="super">2</sup>
 </p>
@@ -81,7 +76,7 @@ $videosPerPage = 3;
 <p><span class="emphasize_orange">For a three digit number "abc", the Duplex,</span> <span class="emphasize">D(abc)</span><span class="emphasize_orange">, is obtained by adding</span> <span class="emphasize_lightblue">twice the cross product of the 1st &amp; 3rd digits and the square of the middle digit</span>. Thus <span class="emphasize_lightblue">D</span>(abc) = 2ac + b<sup class="super">2</sup>
 </p>
 <p><ul>
-  <p><li><span class="emphasize">Duplex</span> of 213, <span class="emphasize">D</span>(213) = 2 x (2 x 3) + 1<sup class="super">2</sup> = 12 + 1 = <span class="emphasize">13</span></li>
+  <li><span class="emphasize">Duplex</span> of 213, <span class="emphasize">D</span>(213) = 2 x (2 x 3) + 1<sup class="super">2</sup> = 12 + 1 = <span class="emphasize">13</span></li>
   <li><span class="emphasize">Duplex</span> of 456, <span class="emphasize">D</span>(456) = 2 x (4 x 6) + 5<sup class="super">2</sup> = 48 + 5 = <span class="emphasize">53</span></li>
   <li><span class="emphasize">Duplex </span>of 879, <span class="emphasize">D</span>(879) = 2 x (8 x 9) + 7<sup class="super">2</sup> = 144 + 49 = <span class="emphasize">193</span> etc.</li>
 </ul></p>
@@ -114,8 +109,10 @@ $videosPerPage = 3;
   <li>The Duplex of a number is the same when the number is reversed from front to back</li>
   <li>The Duplex of an n-digit number is always even when n is even</li>
   <li>The Duplex of an n-digit number is always odd when both n and the middle digit of the number are odd</li>
-</ul>     
-  </div>
+</ul>
+
+</div>
+</div>
 
 
 <footer class="container">

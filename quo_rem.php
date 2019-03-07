@@ -39,16 +39,10 @@ $videosPerPage = 3;
     <div class="jumbotron">
       <div class="container">
         <h1 class="display-3">Quotient and Remainder</h1>
-        <p>Blurb for Quotient and Remainder....</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-        
-        <p><a class="btn btn-primary btn-lg" href="#videos" role="button">Learn More &raquo;</a></p>
       </div>
       <a name="videos"></a>
-    </div>
+    
   <hr>
- 	<h2 class="text-center">Quotient and Remainder</h2>
-
   <div id="quot_rem" class="container" >
   		<p>In Vedic maths, the Quotient is the integer/integral part of the result of dividing one quantity (number, quantity or expression), known as the Dividend, by another (the Divisor).</p>
 
@@ -93,7 +87,7 @@ $videosPerPage = 3;
 <p>N.B.<span class="emphasize_red"> In the very final answer, the Remainder can never be &gt;= Divisor!</span> </p>
 <p>So, if we obtain a Remainder &gt;= Divisor we divide that Remainder by the Divisor and this newly obtained Quotient is added to the existing Quotient and the newly found Remainder becomes our Remainder proper.</p>
   </div>
-
+</div>
 
 <footer class="container">
   <p>&copy; Vedic Maths Portal 2014-2019</p>

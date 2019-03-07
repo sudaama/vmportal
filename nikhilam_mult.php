@@ -39,8 +39,14 @@ $videosPerPage = 3;
     <div class="jumbotron">
       <div class="container">
         <h1 class="display-3">Nikhilam Multiplication</h1>
-        <p>Blurb for Nikhilam Multiplication....</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <hr>
+        <p>Nikhilam Multiplication is specifically used when the numbers that are to be multiplied together are close to a particular base such as 10, 100, 1000 etc.</p>
+        <p>The Nikhilam series of examples has been arranged into 5 separate sections and there are many short videos arranged in order of increasing complexity given below.</p>
+          <p><a href="nikhilam_pdfs/Nikhilam_multiplication_pt1.pdf" target="_blank">General Theory/Explanation of Nikhilam Multiplication(Download PDF Part I)</a></p>
+    <p><a href="nikhilam_pdfs/Nikhilam_multiplication_pt2.pdf" target="_blank">General Theory/Explanation of Nikhilam Multiplication(Download PDF Part II)</a></p>
+        <p><a href="nikhilam_pdfs/Nikhilam_multiplication_pt3.pdf" target="_new">General Theory/Explanation of Nikhilam Multiplication(Download PDF Part III)</a></p>
+        <p><a href="nikhilam_pdfs/Nikhilam_multiplication_pt4.pdf" target="_new">General Theory/Explanation of Nikhilam Multiplication(Download PDF Part IV)</a></p>
+        <p><a href="nikhilam_pdfs/Nikhilam_multiplication_pt5.pdf" target="_new">General Theory/Explanation of Nikhilam Multiplication(Download PDF Part V)</a></p>
         
         <p><a class="btn btn-primary btn-lg" href="#videos" role="button">Watch Videos &raquo;</a></p>
       </div>

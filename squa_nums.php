@@ -41,8 +41,12 @@ $videosPerPage = 3;
     <div class="jumbotron">
       <div class="container">
         <h1 class="display-3">Squaring Numbers</h1>
-        <p>Blurb for Squaring Numbers....</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <hr>
+        <p class="subhead_tag"><strong>Mathematically speaking, a square is the result of multiplying a number by itself. The verb "to square" is used to denote this operation. Squaring a number is the same as <span class="emphasize_red">raising to the number to the power 2</span>, and is denoted by the superscript 2; for instance, the square of 5 may be written as 5<sup class="super">2</sup>, which is the number 25 or, for instance, 7<sup class="super">2</sup> is the number 49 etc.
+        
+        We have a specific method for squaring numbers ending in 5, using the Ekadhika sutra, and another separate method for squaring numbers near to the base which uses the Yavadunam sutra. Then there is squaring using the Anurupyena Method, which can specifically be used for squaring two digit numbers but which is also flexible enough to be used for three and four digit numbers. Finally, there is squaring using the Duplex Method.
+        
+      </strong></p>
         
         <p><a class="btn btn-primary btn-lg" href="#videos" role="button">Learn More &raquo;</a></p>
       </div>
@@ -53,11 +57,7 @@ $videosPerPage = 3;
 
   
   <div id="squa_num" class="container" >
-  		 <p class="subhead_tag"><strong>Mathematically speaking, a square is the result of multiplying a number by itself. The verb "to square" is used to denote this operation. Squaring a number is the same as <span class="emphasize_red">raising to the number to the power 2</span>, and is denoted by the superscript 2; for instance, the square of 5 may be written as 5<sup class="super">2</sup>, which is the number 25 or, for instance, 7<sup class="super">2</sup> is the number 49 etc.
-        
-        We have a specific method for squaring numbers ending in 5, using the Ekadhika sutra, and another separate method for squaring numbers near to the base which uses the Yavadunam sutra. Then there is squaring using the Anurupyena Method, which can specifically be used for squaring two digit numbers but which is also flexible enough to be used for three and four digit numbers. Finally, there is squaring using the Duplex Method.
-        
-      </strong></p>
+  		 
     </span>
       <p><span class="pad_left1">        </span><span class="pad_left1">    </span>
         In this section we will briefly outline four different methods for finding the square of a particular number; some methods can be used for general cases and some methods are to be used only for special cases.
@@ -84,7 +84,7 @@ $videosPerPage = 3;
         
         <li> eg.(6) 47<sup class="super">2</sup> = (47 x 48) / 25 = 2256 / 25 or 225625 </li>
     </ul>
-    <p><a href="squaring_pdfs/ekadhika_squaring_detail.pdf" target="_top">Download Ekadhika Squaring Breakdown (PDF) </a>
+    <p><a href="squaring_pdfs/ekadhika_squaring_detail.pdf" target="_blank">Download Ekadhika Squaring Breakdown (PDF) </a>
     </p>
         </div>
  
@@ -130,7 +130,7 @@ $videosPerPage = 3;
 
 <p><i><b>Please refer to Nikhilam Multiplication Section, Part 2 to refresh your memory).</b></i></p>
 
-<p><a href="squaring_pdfs/yavadunum_squaring.pdf" target="_top">Download Yavadunum Squaring</a></p>
+<p><a href="squaring_pdfs/yavadunum_squaring.pdf" target="_blank">Download Yavadunum Squaring</a></p>
 
   </div>
 
@@ -209,14 +209,14 @@ $videosPerPage = 3;
 <br>
 <p>So, 13<sup class="super">2</sup> = 169</p>
 
-<a href="squaring_pdfs/anurupyena_method_of_squaring.pdf" target="_top">Download Anurupyena Method of Squaring</a>
+<a href="squaring_pdfs/anurupyena_method_of_squaring.pdf" target="_blank">Download Anurupyena Method of Squaring</a>
 </div>
 
 <h3 id=duplex>Duplex Method of Squaring.....Method 4</h3>
         <div class="tooltipStuff" id="tooltip4">
       <p>Simply by mental multiplication, the sub-sutra dwandwah yogah (the duplex combination) is used to find the squares of numbers that contain any number of digits.</p>
 
-      <p>We have already written a short section on how to find the duplex of a number and the reader is advised to visit the <a href="duplex.php">Duplex</a> section of the Basic Terms. Alternatively, download Duplex-info and read at your leisure. <a href="squaring_pdfs/duplex_method_of_squaring.pdf" target="_new">Download Duplex Method of Squaring</a></p>
+      <p>We have already written a short section on how to find the duplex of a number and the reader is advised to visit the <a href="duplex.php">Duplex</a> section of the Basic Terms. Alternatively, download Duplex-info and read at your leisure. <a href="squaring_pdfs/duplex_method_of_squaring.pdf" target="_blank">Download Duplex Method of Squaring</a></p>
       </div>
 </div>
 

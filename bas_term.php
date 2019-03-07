@@ -42,17 +42,11 @@ $videosPerPage = 3;
     <!--end of Navigation bar-->
     <div class="jumbotron">
       <div class="container">
-        <h1 class="display-3">Basic Terminology</h1>
-        <p>Blurb for Basic Terminology....</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-        
-        <p><a class="btn btn-primary btn-lg" href="#videos" role="button">Learn More &raquo;</a></p>
+        <h1 class="display-3">Basic Laws and Terms</h1>
+        <hr>
+        <p>Vedic mathematics has its own peculiar set of mathematical terms and ideas in addition to using standard/conventional maths laws. The basic terms and laws are given below.</p>
       </div>
-      <a name="videos"></a>
     </div>
-  <hr>
- 	<h2 class="text-center">Basic Terminology</h2>
-
   <div id="basic_terms" class="container" >
   		 <div id="accordion">
     <h3>Ekadhika</h3>

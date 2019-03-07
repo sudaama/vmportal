@@ -39,20 +39,10 @@ $videosPerPage = 3;
     <div class="jumbotron">
       <div class="container">
         <h1 class="display-3">Algebraic Square and Square Roots</h1>
-        <p>Blurb for Algebraic Square and Square Roots....</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-        
-        <p><a class="btn btn-primary btn-lg" href="#videos" role="button">Learn More &raquo;</a></p>
-      </div>
-      <a name="videos"></a>
-    </div>
-  <hr>
- 	<h2 class="text-center">Algebraic Square and Square Roots</h2>
-
-  <div id="alg_roots" class="container" >
-  		<p class="subhead_tag"><strong>In this section we are going to deal with the square and square root of an algebraic expression. </strong></p>
+        <hr>
+        <p class="subhead_tag"><strong>In this section we are going to deal with the square and square root of an algebraic expression. </strong></p>
           <h2>Algebraic Squaring</h2>
-        </span>
+        <hr>
           <p>In this section, we will explore the duplex method of squaring an algebraic expression which is very similar to duplex method of squaring numbers.  In a similar way to numerical squaring, the duplex values of a number of terms of an algebraic expression can be conducted considering each term of the expression equivalent to each digit of a number whose duplex we wish to find. Here is brief outline of how to find the <a href="duplex.php">duplex</a> of various algebraic terms </p>
 <ul>
   <li>
@@ -195,6 +185,16 @@ $videosPerPage = 3;
 <p>If the square root is not a perfect square we will get an infinite series just as in the case of numerals where we get a decimal part. With numerals, the excess digits remaining after dividing by the divisor are carried over to the next digit. However, when taking square root of algebraic expressions there are no carry over of terms and this situation will sometimes lead to the production of fractional coefficients of the terms. Aside from this, the rest of the procedure is the same as the that followed to obtain the square root of numerals using the <a href="duplex.php">Duplex Method</a>.</p>
 
 <a href="square_roots_pdfs/algebraic_squareroot_duplexmethod.pdf" target="_new">Download Algebraic Square Root Duplex Method</a><a href="http://localhost/vmportal/wp-content/uploads/2015/04/algebraic_squareroot_duplexmethod.pdf"></a>
+        
+        
+      </div>
+      <a name="videos"></a>
+    </div>
+  
+ 	
+
+  <div id="alg_roots" class="container" >
+  		
   </div>
 </div>
 

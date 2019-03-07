@@ -39,18 +39,8 @@ $videosPerPage = 3;
     <div class="jumbotron">
       <div class="container">
         <h1 class="display-3">Square Roots</h1>
-        <p>Blurb for Square Roots....</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-        
-        <p><a class="btn btn-primary btn-lg" href="#videos" role="button">Learn More &raquo;</a></p>
-      </div>
-      <a name="videos"></a>
-    </div>
-  <hr>
- 	<h2 class="text-center">Square Roots</h2>
-
-  <div id="root_nums" class="container" >
-  		<p class="subhead_tag"><strong>In this section we are going to deal with a simple, straightforward, elegant single line Vedic method of finding the square root of any number.</strong></p>
+        <hr>
+        <p class="subhead_tag"><strong>In this section we are going to deal with a simple, straightforward, elegant single line Vedic method of finding the square root of any number.</strong></p>
           <p>In Vedic Mathematics, finding the Square Root, or <span class="emphasize_red">Vargamoola</span>, of a number involves using a simple, straightforward procedure.</p>
 
 
@@ -96,8 +86,12 @@ For example: 16<sup>2</sup> = 256; Here we see that the end digit in the number 
           <p>Vedic Method of Finding Square Roots <a title="Classic Vedic Square Root Method" href="square_roots_pdfs/square_root_method.pdf">Download Classic Square Root Method</a></p>
 <p>There is also a very old, non-Vedic, method of calculating square roots that we have included for the sake of comparision.</p>
 <p><a href="square_roots_pdfs/oldskool_squareroots.pdf" target="_new">Download "Ole Skool" Square Root Method</a></p>
-  </div>
-
+        
+        
+      </div>
+      <a name="videos"></a>
+    </div>
+ 	
 
 <footer class="container">
   <p>&copy; Vedic Maths Portal 2014-2019</p>

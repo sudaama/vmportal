@@ -39,6 +39,7 @@ $puzzlesPerPage = 3;
     <div class="jumbotron">
       <div class="container">
         <h1 class="display-3">Put It Together</h1>
+        <hr>
         <p>In this section you will find a collection of different 'put-it-together' puzzles. A Print 'n' Play PDF version of each puzzle is available.</p>
         
         <p><a class="btn btn-primary btn-lg" href="#puzzles" role="button">Try Puzzles &raquo;</a></p>

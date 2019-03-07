@@ -39,24 +39,8 @@ $videosPerPage = 3;
     <div class="jumbotron">
       <div class="container">
         <h1 class="display-3">Place Value</h1>
-        <p>Blurb for Place Value....</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-        
-        <p><a class="btn btn-primary btn-lg" href="#videos" role="button">Learn More &raquo;</a></p>
-      </div>
-      <a name="videos"></a>
-    </div>
-  <hr>
- 	<h2 class="text-center">Place Value</h2>
-
-  <div id="place_value" class="container" >
-  		<div class="wrapper">
-        <div><span class="pad_left1">
-         <a name="videos"></a>
-          <h2>Place value Notation</h2>
-          <p class="subhead_tag"><strong>Place value Notation</strong></p>
-
-<p>Place value is a very simple but ingenious way of representing numbers and it is a concept that has its roots in antiquity. The ubiquitous decimal system, which is now taken for granted by people everywhere, is today by far the most popular and widespread place value number system in practical use.
+        <hr>
+        <p>Place value is a very simple but ingenious way of representing numbers and it is a concept that has its roots in antiquity. The ubiquitous decimal system, which is now taken for granted by people everywhere, is today by far the most popular and widespread place value number system in practical use.
 <strong><em>Place Value is the value of the place or position of a digit in a number</em></strong>
 
 <strong>base-10, Decimal System</strong></p>
@@ -99,11 +83,7 @@ So, for example, in the number 0.897 </p>
 </ul>
 <p>Hence 0.897 = 0.8 + 0.09 + 0.007</p>
 </div>
-        
-    </div>
-  </div>
-
-
+</div>        
 <footer class="container">
   <p>&copy; Vedic Maths Portal 2014-2019</p>
 </footer>

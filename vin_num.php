@@ -39,18 +39,13 @@ $videosPerPage = 3;
     <div class="jumbotron">
       <div class="container">
         <h1 class="display-3">Vinculum Numbers</h1>
-        <p>Blurb for Vinculum Numbers....</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
         
-        <p><a class="btn btn-primary btn-lg" href="#videos" role="button">Learn More &raquo;</a></p>
-      </div>
-      <a name="videos"></a>
     </div>
   <hr>
- 	<h2 class="text-center">Vinculum Numbers </h2>
+ <!--	<h2 class="text-center">Vinculum Numbers </h2> -->
 
   <div id="vin_num" class="container" >
-  		<p><span class="subhead_tag"><strong>Modern day mathematics uses numbers in which the digits  are all either positive or negative. However, Vedic mathematics sometimes makes use of numbers which may contain both postive and negative digits. These numbers are known as vinculum numbers. </strong></span></p>
+  		<p><span class="subhead_tag"><strong>Modern day mathematics involves using numbers in which the digits are either (i) all positive or (ii) all negative. However, strange as it may seem, Vedic mathematics sometimes makes use of numbers which may contain both positive and negative digits. These numbers are commonly known as vinculum numbers and are very useful instruments for doing mathematical calculations. </strong></span></p>
           <p class="emphasizeblack">The vinculum number is obtained by converting the digits that are greater than 5 (in the number) to digits less than 5<strong>.</strong></p>
           <p><span class="subhead_tag"><strong> After the conversion, all the basic arithmetic operations such as addition, subtraction, multiplication etc are carried out with relative ease using the converted </strong></span><span class="emphasize_red"><strong>(vinculum)</strong></span><span class="subhead_tag"><strong> number. </strong></span></p>
       
@@ -60,7 +55,7 @@ $videosPerPage = 3;
           <p><a href="pdfz/vinculum.pdf" target="_blank">Conversion of a vinculum number into a common number <span class="emphasize_red">(download PDF)</span></a></p>
            <p><a href="numberCruncher2.html">Conversion of a Mixed Number to Ordinary Number to Vinculum Number <span class="emphasize_red">(APPLICATION)</span></a></p>
   </div>
-
+</div>
 
 <footer class="container">
   <p>&copy; Vedic Maths Portal 2014-2019</p>

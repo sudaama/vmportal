@@ -39,17 +39,11 @@ $videosPerPage = 3;
     <div class="jumbotron">
       <div class="container">
         <h1 class="display-3">Beejank (Vedic Check)</h1>
-        <p>Blurb for Beejank (Vedic Checking Method)....</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-        
-        <p><a class="btn btn-primary btn-lg" href="#videos" role="button">LearnMore &raquo;</a></p>
+        <hr>
       </div>
       <a name="videos"></a>
-    </div>
-  <hr>
- 	<h2 class="text-center">Beejank (Vedic Checking)</h2>
-
-  <div id="nikmult" class="container" >
+  
+  <div id="bee_check" class="container" >
   		
           <p class="subhead_tag"><strong>The Beejank, also known as Navasesh, Digital Root or "casting out nines" is a simple but very effective technique for checking the correctness of an answer. </strong></p>
 <p>We can make use of the Beejank to check the result of arithmetic operations like addition, subtraction, multiplication and division. The correctness of any arithmetic operation can be verified by carrying out the same operation on the Beejank of the numbers in the operation.</p>
@@ -63,11 +57,11 @@ $videosPerPage = 3;
   <li>The Beejank of 6729 is 6; because 6729 divided by 9 gives 747 Remainder 6</li>
   <li>The Beejank of 919999 is 1; because 919999 divided by 9 gives 2 Remainder 1</li>
 </ul>
-<p>But there is any easier way of calculating the Beejank
+<p>But there is any easier way of calculating the Beejank</p>
 <h3>      <strong>Basic Method</strong> </h3>
 <p>The easy way to compute the Beejank (Bj) is to:</p>
 
-<p>Stage 1) Add all the digits in the number ie. find the <strong>digit sum</strong>
+<p>Stage 1) Add all the digits in the number ie. find the <strong>digit sum</strong></p>
 <ul>
   <li>If the answer obtained is a single digit then that answer is the Beejank <span style="color: #ff0000;"><em>(If the sum is 0 or 9 the Beejank is 0)</em></span></li>
   <li>But if there is more than one digit in the answer, the process, Stage 1, is repeated on the answer i.e all the new digits are added together. If the new answer obtained is a single digit then this is the Beejank otherwise we keep repeating stage 1 until a single digit is found and this then will be the Beejank.</li>
@@ -92,12 +86,8 @@ $videosPerPage = 3;
 <h2><strong>Checking arithmetic operations using the Beejank</strong>
   
 </h2>
-<p>Here sutra 15, Gunitasamuchayah</span></a>, meaning "the whole product is the same" is used. In this context, the operations carried out with the numbers have the same effect when the same operations are carried ot with their Beejanks.
-  
-</p>
-<h3><strong>Addition</strong>
-  
-</h3>
+<p>Here sutra 15, Gunitasamuchayah, meaning "the whole product is the same" is used. In this context, the operations carried out with the numbers have the same effect when the same operations are carried ot with their Beejanks. </p>
+<h3><strong>Addition</strong></h3>
 <p><span class="wrapper">For example: </span>56 + 27 = 83
   
   Bj(56) = 5 + 6 = 11 giving Bj(56) = 2
@@ -110,7 +100,7 @@ $videosPerPage = 3;
   Addition of Bj(56) and Bj(27) = 2 + 0 = 2, which is same as Bj(83).
   
   Hence the addition is correct </p>
-<h3><strong>Subtraction</strong>    </h3>
+<h3><strong>Subtraction</strong></h3>
 <p><span class="wrap1">For example:</span> 76 - 39 = 37
   
   Bj(76) = 7 + 6 = 13 giving Bj(76) = 4
@@ -125,9 +115,7 @@ $videosPerPage = 3;
   
   </p>
 <p>NB. If we get a negative Beejank, it is made positive by adding 9 </p>
-<h3><strong>Multiplication</strong>
-  
-</h3>
+<h3><strong>Multiplication</strong></h3>
 <p><span class="wrap1">For example:</span> 13 x 15 = 195
   
   Bj(13) = 1 + 3 = 4 giving Bj(13) = 4
@@ -139,15 +127,11 @@ $videosPerPage = 3;
   Bj(195) = 1 + 9 + 5 giving Bj = 6
   
   Hence Multiplication is correct </p>
-<h3><strong>Division</strong>
-  
-</h3>
+<h3><strong>Division</strong></h3>
 <p>If E = Dividend, D = Divisor, Q = Quotient and R = Remainder, we get the relationship:
   
   <span class="emphasize_orange">E = (Q x D) + R</span> If the equation is satisfied the division is correct </p>
-<p><strong>For example</strong> 293 divided by 7 gives 41 as the Quotient and 6 as the Remainder. Now, to ascertain the correctness of this we can convert E (293), D(7), Q(41) and R(6) into Beejank form and check that both sides of the equation give equal Beejank values
-  
-  </p>
+<p><strong>For example</strong> 293 divided by 7 gives 41 as the Quotient and 6 as the Remainder. Now, to ascertain the correctness of this we can convert E (293), D(7), Q(41) and R(6) into Beejank form and check that both sides of the equation give equal Beejank values.</p>
 <p>ie. Bj(E) =Bj( (Q x D) + R) = Bj(Q x D) + Bj(R)  </p>
 <p>Let us check using the above example  </p>
 <p>LHS: Bj(293) = 5
@@ -155,7 +139,7 @@ $videosPerPage = 3;
   RHS: Bj(41 x 7) + Bj(6) = Bj(287) + 6 = 8 + 6 = 14 giving final Bj of 5 for RHS.</p>
 <p>Now, as Bj(LHS) == Bj(RHS) the division is correct! <span class="emphasize_purple">(NB == means equivalent)</span></p>
   </div>
-
+</div>
 
 <footer class="container">
   <p>&copy; Vedic Maths Portal 2014-2019</p>

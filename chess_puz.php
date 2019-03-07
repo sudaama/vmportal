@@ -1,5 +1,5 @@
 <?php
-require './modelpuzzles/checkerboards.php';
+require './modelpuzzles/chesscheckers.php';
 require './viewpuzzles/viewpuzzles.php';
 
 $viewPuzzles = new viewPuzzles();
@@ -38,21 +38,21 @@ $puzzlesPerPage = 3;
     <!--end of Navigation bar-->
     <div class="jumbotron">
       <div class="container">
-        <h1 class="display-3">Checkerboard Puzzles</h1>
+        <h1 class="display-3">'Chess `n` Checkers' Puzzles</h1>
         <hr>
-        <p>In this section you will find a collection of different 'Checkerboard Puzzles' puzzles. A Print 'n' Play PDF version of each puzzle is available. Have Fun!</p>
+        <p>In this section you will find a collection of different 'Chess `n` Checkers' puzzles. A Print 'n' Play PDF version of each puzzle is available. Have Fun!</p>
         
         <p><a class="btn btn-primary btn-lg" href="#puzzles" role="button">Try Puzzles &raquo;</a></p>
       </div>
       <a name="puzzles"></a>
     </div>
   <hr>
- 	<h2 class="text-center">Checkerboard Puzzles Puzzles</h2>
+ 	<h2 class="text-center">Chess `n` Checkers Puzzles</h2>
 
-  <div id="check_puz" class="container" >
+  <div id="chess_puz" class="container" >
   		<div>
-			<a class="pages" href="check_puz.php?page=<?php echo $prev; ?>#puzzles">&lt;prev puzzle set</a>&nbsp;|&nbsp;
-			<a class="pages" href="check_puz.php?page=<?php echo $next; ?>#puzzles">next puzzle set&gt;</a>
+			<a class="pages" href="chess_puz.php?page=<?php echo $prev; ?>#puzzles">&lt;prev puzzle set</a>&nbsp;|&nbsp;
+			<a class="pages" href="chess_puz.php?page=<?php echo $next; ?>#puzzles">next puzzle set&gt;</a>
         	<em class="pages_index"><strong><?php echo "Puzzle Set: ";  echo $page + 1;?></strong></em>
       </div>
  	 	  <div class="card-deck mb-3 text-center">      

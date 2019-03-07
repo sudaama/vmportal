@@ -39,19 +39,9 @@ $videosPerPage = 3;
     <div class="jumbotron">
       <div class="container">
         <h1 class="display-3">Cube Roots of Perfect Cubes</h1>
-        <p>Blurb for Cube Roots of Perfect Cubes....</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-        
-        <p><a class="btn btn-primary btn-lg" href="#videos" role="button">Learn More &raquo;</a></p>
-      </div>
-      <a name="videos"></a>
-    </div>
-  <hr>
- 	<h2 class="text-center">Cube Roots of Perfect Cubes</h2>
-
-  <div id="cub_roots" class="container" >
-      <p>ube Roots can be calculated mainly through inspection (Vilokanam) and argumentation.</p>
-  		<p>To be able to perform cube roots, one must be familiar with the cubes of the first nine natural numbers. Thus, including the cube of zero, we have:</p>
+        <hr>
+        <p>ube Roots can be calculated mainly through inspection (Vilokanam) and argumentation.</p>
+      <p>To be able to perform cube roots, one must be familiar with the cubes of the first nine natural numbers. Thus, including the cube of zero, we have:</p>
 <ul>
   <li>Cube of 1 is 0<sup>3</sup> = 0</li>
   <li>Cube of 1 is 1<sup>3</sup> = 1</li>
@@ -64,10 +54,11 @@ $videosPerPage = 3;
   <li>Cube of 8 is 8<sup>3</sup> = 512</li>
   <li>Cube of 9 is 9<sup>3</sup> = 729</li>
 </ul>
-<p>Details of the cube rot method is given in the PDF File.</p>
-<a href="perfectcube_roots_pdfs/cube_roots_of_perfcubes.pdf" target="_new">Download Cube Root of Perfect Cubes (PDF)</a>
-  </div>
-
+<p>Details of the cube root method is given in the PDF File.</p>
+<a href="perfectcube_roots_pdfs/cube_roots_of_perfcubes.pdf" target="_blank">Download Cube Root of Perfect Cubes (PDF)</a>
+      <a name="videos"></a>
+    </div>
+  
 
 <footer class="container">
   <p>&copy; Vedic Maths Portal 2014-2019</p>

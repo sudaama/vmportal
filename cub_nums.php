@@ -39,18 +39,8 @@ $videosPerPage = 3;
     <div class="jumbotron">
       <div class="container">
         <h1 class="display-3">Cubing Numbers</h1>
-        <p>Blurb for Cubing Numbers....</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-        
-        <p><a class="btn btn-primary btn-lg" href="#videos" role="button">Learn More &raquo;</a></p>
-      </div>
-      <a name="videos"></a>
-    </div>
-  <hr>
- 	<h2 class="text-center">Cubing Numbers</h2>
-
-  <div id="cub_nums" class="container" >
-  		<p class="subhead_tag"><strong>When any number is multiplied by the square of that number the result obtained is the cube of that number.</strong></p>
+        <hr>
+        <p class="subhead_tag"><strong>When any number is multiplied by the square of that number the result obtained is the cube of that number.</strong></p>
 <p>The cube of a number is simply the <span class="emphasize_red">&quot;square of the number multiplied by the number itself&quot;</span>. </p>
 <p>The symbol for cubed is <sup>3</sup> - To write 4 cubed we would write <strong>4<sup>3</sup></strong>
   This tells us how many times we need to multiply 4 by itself.
@@ -58,8 +48,9 @@ $videosPerPage = 3;
   They are called cube numbers because these numbers actually form cubes.
   In Vedic maths there are some very simple methods to find the cube of numbers and we will explore two methods in particular: Cubing by the <strong><em>Nikhilam Method</em></strong> and Cubing by the <strong><em>Anurupyena Method</em></strong>.</p>
   <a href="cubing_pdfs/cubing_of_numbers.pdf">Download Vedic Cubing of Numbers (PDF)</a>
-  </div>
-
+      </div>
+      <a name="videos"></a>
+    </div>
 
 <footer class="container">
   <p>&copy; Vedic Maths Portal 2014-2019</p>

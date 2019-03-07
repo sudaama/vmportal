@@ -39,8 +39,18 @@ $videosPerPage = 3;
     <div class="jumbotron">
       <div class="container">
         <h1 class="display-3">Nikhilam Division</h1>
-        <p>Blurb for Nikhilam Division....</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <hr>
+        <p class="subhead_tag"><strong>The Dhwajank method of division is similar to the conventional method except that subtraction is done orally and the <a title="Quotient and Remainder" href="http://localhost/vmportal/fundamentals/quotient-and-remainder/">Quotient(Q)</a> and <a title="Quotient and Remainder" href="http://localhost/vmportal/fundamentals/quotient-and-remainder/">Remainder(R)</a> are formed side by side.</strong></p>
+<p class="subhead_tag"><strong>For Nikhilam Division we can specifically use the Nikhilam sutra for division when the divisor is near to but less than the base.</strong></p>
+<p>In Nikhilam Division we use the Vedic Maths sutra number 2: Nikhilam Navatascharamam Dashatah (All from 9 last from 10). The special thing about using this method is that <span class="emphasize_red">we don't actually divide by the dividend at all!</span> The answer is obtained by repeated digit to digit multiplication followed by addition. The Quotient(Q)and the Remainder(R) are obtained side by side.</p>
+
+<p>First of all we write out the Dividend and Divisor as in the conventional method. Then we apply the Nikhilam sutra to get the complements (from 10) of the divisor and these complement digits are written just below the Divisor. This number is known as the Modified Divisor (MD). </p>
+<p>For example, </p>
+<p>if the<span class="emphasizeblack"> Divisor is 8</span>, its <span class="emphasizeblack">MD is 2; </p>
+<p>if the<span class="emphasizeblack"> Divisor is 7</span>, its <span class="emphasizeblack">MD is 3; </p>
+<p>if the <span class="emphasizeblack">Divisor is 86</span>, the <span class="emphasizeblack">MD is 14; </p>
+<p>if the <span class="emphasizeblack">Divisor is 798</span>, its <span class="emphasizeblack">MD is 202 and so on....</p>
+<p>Once we have the MD we can proceed further. Check out the videos for step by step examples showing the method of using Nikhilam sutra for Division.  </p>
         
         <p><a class="btn btn-primary btn-lg" href="#videos" role="button">Watch Videos &raquo;</a></p>
       </div>

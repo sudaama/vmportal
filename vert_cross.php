@@ -39,8 +39,11 @@ $videosPerPage = 3;
     <div class="jumbotron">
       <div class="container">
         <h1 class="display-3">Vertically and Crosswise</h1>
-        <p>Blurb for Vertically and Crosswise....</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <hr>
+        <p>This classic, general method of multiplication using vertical and crosswise operations, shows you how to easily multiply together any two numbers.<p>
+          <p>This method of multiplication is also known as the "Vedic one-line multiplication method" as it is possible to multiply together two numbers of any length, in only one line, assuming, of course, that you are able to remember all the intermediate calculations....check out this amazing method!</p>
+          <p>Carefully study the  graduated series of video examples, given below, which are of  increasing complexity. (click on 'prev' and 'next' to scroll forward or backwards)</p>
+          <p>By the time you have finished this section you will have mastered Urdhva Tiryagbhyaam <span class="emphasize_red">(vertically and crosswise)</span> multiplication :-)</p>
         
         <p><a class="btn btn-primary btn-lg" href="#videos" role="button">Watch Videos &raquo;</a></p>
       </div>
