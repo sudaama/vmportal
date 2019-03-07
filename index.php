@@ -39,17 +39,49 @@ $videosPerPage = 3;
     <div class="jumbotron">
       <div class="container">
         <h1 class="display-3">Vedic Maths Portal</h1>
-        <p>Blurb for Vedic Maths Portal....</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <hr>
+        <p><span class="subhead_tag pad_top2"><strong>Vedic mathematics is a very ancient system of mathematics which enables one to quickly solve a wide variety of mathematical problems with ease.</strong></span></p>
+<p class="subhead_tag">This system of mathematics is beautifully coherent and unified, is renowned for its flexibility  and encourages innovation. It makes mathematics not only easy to learn but also enjoyable to use.</p>
+<p>Rediscovered by <a href="vedicmathfather.php#vedicfather">Sri Bharati Krsna Tithaji</a> between the years 1911 and 1918, it is based on a set of <a href="sutras2.php" target="_blank">16 sutras</a> and <a href="subsutras2.php">13 sub-sutras</a> which are, in effect, very concise word formulas</p>
+</strong></p>
+<div class="box1">
+       <div class="wrapper2">
+            <div class="pad_left1_video">
+              <h2>Key features</h2>
+              <table border="0" cellpadding="0" cellspacing="0" class="vedictable" id="features">
+                <tr>
+                  <th scope="col"><p>coherent</p></th>
+                  <th scope="col"> <p>flexibile</p></th>
+                  <th scope="col"><p>efficient</p></th>
+                  <th scope="col"> <p>universal</p></th>
+                  <th scope="col"><p>speedy</p></th>
+                </tr>
+              </table>
+        </div>
+        <div class="pad_right">
+           <h2>Benefits</h2>
+              <table border="0" cellpadding="0" cellspacing="0" class="vedictable" id="benefits">
+                <tr>
+                  <th scope="col"><p>increases mental agility </p></th>
+                  <th scope="col"><p>improves memory</p></th>
+                  <th scope="col"><p>stimulates creativity</p></th>
+                  <th scope="col"><p>increases concentration ability</p></th>
+                  <th scope="col"><p>develops initiative</p></th>
+                </tr>
+              </table>
+        </div>
+     </div>
+       </div>   
+
         
-        <p><a class="btn btn-primary btn-lg" href="#videos" role="button">Watch Videos &raquo;</a></p>
+        <p><a class="btn btn-primary btn-lg" href="#videos" role="button">Watch Taster Videos &raquo;</a></p>
       </div>
       <a name="videos"></a>
     </div>
   <hr>
- 	<h2 class="text-center">** Placeholder Videos **</h2>
+ 	<h2 class="text-center">Vedic Maths Taster Videos</h2>
 
-  <div id="nikmult" class="container" >
+  <div id="taster_vids" class="container" >
   		<div>
 			<a class="pages" href="nikhilam_mult.php?page=<?php echo $prev; ?>#videos">&lt;prev video set</a>&nbsp;|&nbsp;
 			<a class="pages" href="nikhilam_mult.php?page=<?php echo $next; ?>#videos">next video set&gt;</a>
