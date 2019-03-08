@@ -28,34 +28,27 @@ $videosPerPage = 3;
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Bootstrap CSS 4.2.1 -->
     <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="css/custom.css">
     <title>Vedic Maths Portal</title>
   </head>
 
   <body> 
     <!--Navigation bar, generated using jQuery  see nav.html-->
-    <div id="nav-placeholder"> 
-    </div>
+    <div id="nav-placeholder"> </div>
     <!--end of Navigation bar-->
     <div class="jumbotron">
       <div class="container">
-        <h1 class="display-3">About</h1>
-        <p>Blurb for About....</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-        
-        <p><a class="btn btn-primary btn-lg" href="#videos" role="button">Learn More &raquo;</a></p>
-      </div>
-      <a name="videos"></a>
-    </div>
+        <div id="about">
+        <h1 class="display-3">About</h1><img class="img-fluid" src="images/db.jpeg" alt="picture of Dean, the maths tutor" title="Dean, the maths tutor"></div>
+
+        <p class="emphasize">Hi, Im Dean, aka. Sudaama, a fully qualified and  experienced mathematics teacher/tutor with a particular interest in ancient mathematics, especially Vedic or Indian mathematics.</p>
+        <p></p>
+<p>I also have a keen interest in <a href="vedic_culture.html" title="ancient knowledge" target="_new"> Vedic culture</a>, <a href="ayurveda.html" title="Worlds oldest medical system" target="_new"> Ayurveda </a>(the ancient Indian medical system),<a href="jyotisha.html" title="Jyotisha....Ancient Indian Astrology" target="_new"> Jyotisha</a> (Indian astrology) and he enjoy learning to play musical instruments. </p>
+<p>If you are interested in having personal maths tuition please visit <a href="http://www.mathsdoc.co.uk" target="_blank">mathsdoc.co.uk</a> for more information and booking details.</p>
+ </div>
+ </div>
+
   <hr>
- 	<h2 class="text-center">About</h2>
-
-  <div id="about" class="container" >
-  		<p class="emphasize">Dean, aka. Sudaama is a fully qualified and  experienced mathematics teacher/tutor with a particular interest in ancient mathematics, especially Vedic or Indian mathematics 
-          who has been active in the educational field for many years. He has taught a wide variety of subjects to a wide spectrum of students and uses practical teaching methods as far as possible. Sudaama endeavours to simplify complex ideas and concepts so that students can easily understand  a particular topic or subject.</p>
-<p>He also has a keen interest in <a href="vedic_culture.html" title="ancient knowledge" target="_new"> Vedic culture</a>, <a href="ayurveda.html" title="Worlds oldest medical system" target="_new"> Ayurveda </a>(the ancient Indian medical system),<a href="jyotisha.html" title="Jyotisha....Ancient Indian Astrology" target="_new"> Jyotisha</a> (Indian astrology) and he enjoys learning to play musical instruments. </p>
-<p>If you are interested in maths tuition please visit our sister site <a href="http://www.mathsdoc.co.uk">mathsdoc.co.uk</a></p>
-  </div>
-
 
 <footer class="container">
   <p>&copy; Vedic Maths Portal 2014-2019</p>

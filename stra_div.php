@@ -29,6 +29,7 @@ $videosPerPage = 3;
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Bootstrap CSS 4.2.1 -->
     <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="css/custom.css">
     <title>Vedic Maths Portal</title>
   </head>
 

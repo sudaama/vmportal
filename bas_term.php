@@ -30,6 +30,7 @@ $videosPerPage = 3;
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" type="text/css" href="css/jquery-ui.css">
     <link rel="stylesheet" type="text/css" href="css/sudStyle.css">
+    <link rel="stylesheet" type="text/css" href="css/custom.css">
     <title>Vedic Maths Portal</title>
     
 

@@ -18,7 +18,6 @@ $next = $page + 1;
 $videosPerPage = 3;
 ?>
 
-<!-- Index.html Page -->
 
 <!doctype html>
 <html lang="en">
@@ -28,79 +27,30 @@ $videosPerPage = 3;
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Bootstrap CSS 4.2.1 -->
     <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="css/custom.css">
     <title>Vedic Maths Portal</title>
   </head>
 
   <body> 
     <!--Navigation bar, generated using jQuery  see nav.html-->
-    <div id="nav-placeholder"> 
-    </div>
+    <div id="nav-placeholder"> </div>
     <!--end of Navigation bar-->
     <div class="jumbotron">
       <div class="container">
         <div class="wrapper">
-                <div class="footernav"><a href="index.php">Home</a> | <a href="aboutus.php#aboutus">About Us</a> | <a href="vedicmathsbasics.php">VM Basics</a> | <a href="vedicmathsmethods.php#videos">VM Methods (i)</a> | <a href="vedicmathsmethods2.php#videos">VM Methods (ii)</a> | <a href="puzzles.php#puzzles">Puzzles</a> | <a href="contacts.php#contact">Contact</a><br /></div>
                 
-                    <div class="footer_h2">Sudaama Enterprises</div>
-                     <div class="pfooter">Bristol. BS2</div>
-                   <div class="footer_p">sudaama@hotmail.com</div>
-<article class="call"> <span class="call1">Call/text: </span><span class="call2">&nbsp;<em>07989988660</em></span></article>
+                
+                    <div><h3 class="display-3">Contact</h3></div>
+                     <div class="pfooter"><h4>Dean: deanblake1008@gmail.com</h4></div>
+                      <h4>call:&nbsp;07989988660</h4>
+                      <h4>skype: deanblake1008@hotmail.com</h4>
               </div>  
-        <h1 class="display-3">Vedic Maths Portal</h1>
-        <hr>
-        <p><span class="subhead_tag pad_top2"><strong>Vedic mathematics is a very ancient system of mathematics which enables one to quickly solve a wide variety of mathematical problems with ease.</strong></span></p>
-<p class="subhead_tag">This system of mathematics is beautifully coherent and unified, is renowned for its flexibility  and encourages innovation. It makes mathematics not only easy to learn but also enjoyable to use.</p>
-<p>Rediscovered by <a href="vedicmathfather.php#vedicfather">Sri Bharati Krsna Tithaji</a> between the years 1911 and 1918, it is based on a set of <a href="sutras2.php" target="_blank">16 sutras</a> and <a href="subsutras2.php">13 sub-sutras</a> which are, in effect, very concise word formulas</p>
-</strong></p>
-<div class="box1">
-       <div class="wrapper2">
-            <div class="pad_left1_video">
-              <h2>Key features</h2>
-              <table border="0" cellpadding="0" cellspacing="0" class="vedictable" id="features">
-                <tr>
-                  <th scope="col"><p>coherent</p></th>
-                  <th scope="col"> <p>flexibile</p></th>
-                  <th scope="col"><p>efficient</p></th>
-                  <th scope="col"> <p>universal</p></th>
-                  <th scope="col"><p>speedy</p></th>
-                </tr>
-              </table>
-        </div>
-        <div class="pad_right">
-           <h2>Benefits</h2>
-              <table border="0" cellpadding="0" cellspacing="0" class="vedictable" id="benefits">
-                <tr>
-                  <th scope="col"><p>increases mental agility </p></th>
-                  <th scope="col"><p>improves memory</p></th>
-                  <th scope="col"><p>stimulates creativity</p></th>
-                  <th scope="col"><p>increases concentration ability</p></th>
-                  <th scope="col"><p>develops initiative</p></th>
-                </tr>
-              </table>
-        </div>
-     </div>
-       </div>   
-
-        
-        <p><a class="btn btn-primary btn-lg" href="#videos" role="button">Watch Taster Videos &raquo;</a></p>
+        <hr> 
       </div>
       <a name="videos"></a>
-    </div>
+    </div> <!-- jumbo -->
   <hr>
- 	<h2 class="text-center">Vedic Maths Taster Videos</h2>
-
-  <div id="taster_vids" class="container" >
-  		<div>
-			<a class="pages" href="nikhilam_mult.php?page=<?php echo $prev; ?>#videos">&lt;prev video set</a>&nbsp;|&nbsp;
-			<a class="pages" href="nikhilam_mult.php?page=<?php echo $next; ?>#videos">next video set&gt;</a>
-        	<em class="pages_index"><strong><?php echo "Video Set: ";  echo $page + 1;?></strong></em>
-      </div>
- 	 	  <div class="card-deck mb-3 text-center">      
-			   <?php echo $view->displayVideos($page, $videosPerPage, $maxVideos, $videos->getVideos()); ?>
-		  </div>
-  </div>
-
-
+ 
 <footer class="container">
   <p>&copy; Vedic Maths Portal 2014-2019</p>
 </footer>

@@ -1,0 +1,19 @@
+img#navlogo {
+    vertical-align: middle;
+    border-style: none;
+    width: 60;
+}
+
+.display-3 {
+    font-size: 4rem;
+    font-weight: 300;
+    line-height: 1.2;
+    margin-top: 0.5em;
+}
+
+#about img.img-fluid {
+    max-width: 20%;
+    height: auto;
+    float: right;
+    border-radius: 1em;
+}

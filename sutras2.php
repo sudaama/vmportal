@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Vedic Maths Sutras</title>
+<title>Vedic Maths Main Sutras</title>
 <style type="text/css">
 .sutrabckgd_colour {
 	background: #90F;
@@ -59,12 +59,12 @@
 <div id = backhome><a href="index.php#vedicmaths">Back Home</a></div> 
 <table border="3" cellpadding="3" cellspacing="6" id="mainSutras">
 <caption>
-    Vedic maths sutras
+    Vedic Maths Main Sutras
   </caption>
   <tr>
-  	<th width="70">Sutra</th>
-    <th width="226">Sanskrit</th>
-    <th width="234">English Transliteration</th>
+  	<th width="70">Sutra Number</th>
+    <th width="226">Main Sutra (Sanskrit)</th>
+    <th width="234">Main Sutra (English Transliteration)</th>
     <!-- <th width="312">Sub-Sutra (Corollary)</th> !-->
     <th width="3">English Translation</th>
     </tr>
